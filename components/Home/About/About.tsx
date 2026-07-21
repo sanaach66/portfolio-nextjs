@@ -21,7 +21,7 @@ const About = () => {
                 data-aos-anchor-placement="top-center"
                 className='aspect-square rounded-2xl overflow-hidden p-2'>
                 <Image 
-                src={"/images/sana.png"} 
+                src={"/images/Sana.png"} 
                 alt='Sana Ullah - WordPress Developer specializing in WooCommerce, Elementor, Bricks Builder and AI Integration'
                 width={700}
                 height={700}
