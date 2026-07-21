@@ -196,7 +196,7 @@ export const projects = [
     title: "E-Commerce Electronics Store/Website",
     description:
       "Developed a modern WooCommerce electronics store with a custom shopping experience, responsive design, optimized product pages, and a streamlined checkout process to improve customer engagement and online sales.",
-    image: "/images/tech-store.jpeg",
+    image: "/images/tech-store.jpg",
     techStack: ["WordPress", "Woocommerce","Bricks", "Stripe", "MySQL"],
     demoUrl: "https://royaltech.pro/",
     githubUrl: "https://github.com/sanaach66",
