@@ -225,7 +225,7 @@ export const projects = [
       "Developed a fully customized WooCommerce grocery store for an Australian business featuring category optimization, custom checkout enhancements, responsive layouts, and an intuitive shopping experience.",
     image: "/images/online-grocery-store-woocommerce.jpg",
     techStack: ["Woocommerce", "PHP", "MySQL", "Plugin Development"],
-    demoUrl: "https://grozmate.com/",
+    demoUrl: "https://demo.devsanaa.com/groze",
     githubUrl: "https://github.com/sanaach66",
   },
   {
